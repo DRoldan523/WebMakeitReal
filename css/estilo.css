@@ -1,0 +1,35 @@
+body{
+    background: url(../img/pexels-photo-946351.jpeg) no-repeat fixed center center #333;
+    background-size: cover;
+}
+
+.img{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    border: 5px solid #FFFFFF;
+}
+
+#center{
+    height: 20px;
+    width: 200px;
+    margin: auto;
+    padding: 160px;
+}
+
+#text{
+    height: 20px;
+    width: 180px;
+    margin: auto;
+    padding: 5px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    
+}
+#text2{
+    height: 10px;
+    width: 130px;
+    margin: auto;
+    padding: 5px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    
+}
